@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Avinashpittala
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 👀 I’m a trained dotnet developer
 - 💞️ I’m looking to collaborate on courses for web development
 - 📫 How to reach me ...
 
